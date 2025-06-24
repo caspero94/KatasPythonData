@@ -19,5 +19,4 @@ def frecuencia_letras(texto: str) -> dict:
 
 # Ejemplo
 EJEMPLO = "Probando texto para que mida la frecuencia de cada letra"
-
 print(frecuencia_letras(EJEMPLO))
